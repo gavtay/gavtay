@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello! 👋
 
-<!--
-**gavtay/gavtay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Gavin Taylor. I am a recent CS grad. I also just got a job as a Web Applications Developer, working full - stack.
 
-Here are some ideas to get you started:
+Feel free to check out any of my socials I have included on my profile, and all public repositories. I plan to continue to try to build awesome stuff in the future. :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/gavtay/)
