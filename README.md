@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Gavin Taylor. I am a recent CS grad. I also just got a job as a Web Applications Developer, working full - stack.
+My name is Gavin Taylor. I am a recent CS grad. I also just got a job as a Web Applications Developer, working as a full-stack dev.
 
 Feel free to check out any of my socials I have included on my profile, and all public repositories. I plan to continue to try to build awesome stuff in the future. :)
 
