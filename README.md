@@ -6,7 +6,7 @@ Feel free to check out any of my socials I have included on my profile, and all 
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,bootstrap,sql,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,bootstrap,js,jquery,php,git,vscode)](https://skillicons.dev)
 
 
 ### Connect
