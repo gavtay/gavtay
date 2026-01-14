@@ -5,4 +5,4 @@ I wish you the best!! :)
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,bootstrap,js,jquery,php,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,bootstrap,tailwind,js,jquery,sql,sqlserver,php,astro,react,python,git,github,gitlab,vscode)](https://skillicons.dev)
