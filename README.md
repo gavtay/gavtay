@@ -8,4 +8,4 @@ I wish you the best!! :)
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,js,jquery,java,springboot,php,astro,git,docker,aws,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,js,jquery,java,php,astro,git,docker,aws,postman)](https://skillicons.dev)
