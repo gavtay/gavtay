@@ -1,8 +1,11 @@
 ### Hello! 👋
 
-My name is Gavin Taylor. I am a software developer with 2 years of experience. I enjoy making friends, learning new things, and building. My work is done in the tech stack below.
+My name is Gavin Taylor. I am a software developer with 2+ years of experience developing secure, data-driven web applications. 
+
+I enjoy building software, learning, and making friends along the way. My primary tech stacks are below.
+
 I wish you the best!! :)
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,bootstrap,tailwind,js,jquery,java,php,astro,react,python,git,github,gitlab,docker,aws,postman,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,js,jquery,java,springboot,php,astro,git,docker,aws,postman)](https://skillicons.dev)
